@@ -1,4 +1,4 @@
----
+---cafedulelune
 title: 'Examples Overview'
 description: 'A set of examples for common Electron features'
 slug: examples
